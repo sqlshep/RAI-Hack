@@ -3,6 +3,8 @@ RAI Hackathon 2023
 
 1. From your Azure Machine Learning(AML) compute instance, start a Jupyter Sesion, the open a terminal session from the Upper right drop down menu "New"
 
+     ![Open Terminal.](/images/Terminal.png)
+
   Clone the following github repo 
   ```
   git clone https://github.com/microsoft/ResponsibleAIAccelerator
