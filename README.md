@@ -1,7 +1,7 @@
 # RAI-Hackathon-2023
 RAI Hackathon 2023
 
-1. From your Azure Machine Learning(AML) compute instance, start a Jupyter Sesion, the open a terminal session from the Upper right drop down menu "New"
+1. From your Azure Machine Learning(AML) compute instance, start a Jupyter Session, the open a terminal session from the Upper right drop down menu "New"
 
      ![Open Terminal.](/images/Terminal.png)
 
