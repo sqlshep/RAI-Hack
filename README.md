@@ -20,7 +20,6 @@ RAI Hackathon 2023
      ![AML Model selection.](/images/ModelsList.png)
 
 
-This site was built using [GitHub Pages](https://pages.github.com/).
 
 For a deep Dive into the RAI Dashboard 
 [Getting started with Azure Machine Learning Responsible AI components](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948?WT.mc_id=aiml-71289-ruyakubu)
