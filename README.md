@@ -13,4 +13,6 @@ RAI Hackathon 2023
    Keep in mind that each notebook takes about 30 minutes in total to run. While it is running you can monitor the model training and dashboard creation phase in the AML portal under Pipelines, there will be two pipelines created. 
 
 3. Once complete, Navigate to Models in teh AML Portal and select the most recent model created;
+
+   
      ![AML Model selection.](/images/ModelsList.png)
