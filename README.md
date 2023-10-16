@@ -1,11 +1,17 @@
 # RAI Getting Started
 
 [**Microsoft’s framework for building AI systems responsibly**](https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/)
+
 [**Assess AI systems by using the Responsible AI dashboard**](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai-dashboard?view=azureml-api-2)
+
 [**Getting started with Azure Machine Learning Responsible AI components (Part 1)**](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948?WT.mc_id=aiml-71289-ruyakubu)
+
 [**Responsible AI Accelerator**](https://github.com/microsoft/ResponsibleAIAccelerator/tree/main)
+
 [**Responsible AI Maturity Model**](https://www.microsoft.com/en-us/research/publication/responsible-ai-maturity-model/)
+
 [**Responsible AI: The research collaboration behind new open-source tools offered by Microsoft**](https://www.microsoft.com/en-us/research/blog/responsible-ai-the-research-collaboration-behind-new-open-source-tools-offered-by-microsoft/)
+
 [**Responsible AI Toolbox**](https://github.com/microsoft/responsible-ai-toolbox)
 
 
