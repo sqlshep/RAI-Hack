@@ -1,6 +1,6 @@
 # RAI Getting Started
 
-[**Assess AI systems by using the Responsible AI dashboard**[(https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai-dashboard?view=azureml-api-2)
+[**Assess AI systems by using the Responsible AI dashboard**](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai-dashboard?view=azureml-api-2)
 
 
 
