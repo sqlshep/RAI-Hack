@@ -1,5 +1,11 @@
-# RAI-Hackathon-2023
-RAI Hackathon 2023
+# RAI Getting Started
+
+[**Assess AI systems by using the Responsible AI dashboard**[(https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai-dashboard?view=azureml-api-2)
+
+
+
+
+## To get strated with the Solution Accelerator 
 
 1. From your Azure Machine Learning(AML) compute instance, start a Jupyter Session, then open a terminal session from the Upper right drop down menu "New"
 
