@@ -6,6 +6,7 @@
 
 [**Getting started with Azure Machine Learning Responsible AI components (Part 1)**](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948?WT.mc_id=aiml-71289-ruyakubu)
 
+[**RAI Dashboard Supported scenarios and limitations**](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai-dashboard?view=azureml-api-2#supported-scenarios-and-limitations)
 [**Responsible AI Accelerator**](https://github.com/microsoft/ResponsibleAIAccelerator/tree/main)
 
 [**Responsible AI Maturity Model**](https://www.microsoft.com/en-us/research/publication/responsible-ai-maturity-model/)
