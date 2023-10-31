@@ -2,6 +2,11 @@
 
 [**Microsoft’s framework for building AI systems responsibly**](https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/)
 
+[**Responsible AI Impact Assessment Guide**](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)
+
+[**Responsible AI Impact Assessment Template**](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf)
+
+
 [**Assess AI systems by using the Responsible AI dashboard**](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai-dashboard?view=azureml-api-2)
 
 [**Getting started with Azure Machine Learning Responsible AI components (Part 1)**](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948?WT.mc_id=aiml-71289-ruyakubu)
