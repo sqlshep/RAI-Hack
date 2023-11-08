@@ -2,6 +2,8 @@
 
 [**Microsoft’s framework for building AI systems responsibly**](https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/)
 
+[**Responsible AI with LLMs**](https://github.com/Azure/FTALive-Sessions/blob/main/content/ai/responsible-ai/en/responsible-ai-for-llms.md)
+
 [**Responsible AI Maturity Model**](https://www.microsoft.com/en-us/research/publication/responsible-ai-maturity-model/)
 
 [**Responsible AI Impact Assessment Guide**](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)
