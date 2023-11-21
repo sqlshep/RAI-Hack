@@ -2,8 +2,6 @@
 
 [**Microsoft’s framework for building AI systems responsibly**](https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/)
 
-[**Responsible AI with LLMs**](https://github.com/Azure/FTALive-Sessions/blob/main/content/ai/responsible-ai/en/responsible-ai-for-llms.md)
-
 [**Responsible AI Maturity Model**](https://www.microsoft.com/en-us/research/publication/responsible-ai-maturity-model/)
 
 [**Responsible AI Impact Assessment Guide**](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)
@@ -22,6 +20,8 @@
 [**Responsible AI: The research collaboration behind new open-source tools offered by Microsoft**](https://www.microsoft.com/en-us/research/blog/responsible-ai-the-research-collaboration-behind-new-open-source-tools-offered-by-microsoft/)
 
 [**Responsible AI Toolbox**](https://github.com/microsoft/responsible-ai-toolbox)
+
+[**Responsible AI with LLMs**](https://github.com/Azure/FTALive-Sessions/blob/main/content/ai/responsible-ai/en/responsible-ai-for-llms.md)
 
 [**Configure content filters with Azure OpenAI Service**](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/content-filters)
 
