@@ -8,7 +8,6 @@
 
 [**Responsible AI Impact Assessment Template**](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf)
 
-
 [**Assess AI systems by using the Responsible AI dashboard**](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai-dashboard?view=azureml-api-2)
 
 [**Getting started with Azure Machine Learning Responsible AI components (Part 1)**](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/getting-started-with-azure-machine-learning-responsible-ai/ba-p/3746948?WT.mc_id=aiml-71289-ruyakubu)
@@ -16,6 +15,8 @@
 [**RAI Dashboard Supported scenarios and limitations**](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai-dashboard?view=azureml-api-2#supported-scenarios-and-limitations)
 
 [**Responsible AI Accelerator**](https://github.com/microsoft/ResponsibleAIAccelerator/tree/main)
+
+[**RAI for Azure AutoML**](https://github.com/Azure/azureml-examples/blob/main/sdk/python/jobs/automl-standalone-jobs/automl-classification-task-bankmarketing/automl-classification-task-bankmarketing-serverless.ipynb)
 
 [**Responsible AI: The research collaboration behind new open-source tools offered by Microsoft**](https://www.microsoft.com/en-us/research/blog/responsible-ai-the-research-collaboration-behind-new-open-source-tools-offered-by-microsoft/)
 
