@@ -14,7 +14,7 @@
 
 [**RAI Dashboard Supported scenarios and limitations**](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai-dashboard?view=azureml-api-2#supported-scenarios-and-limitations)
 
-[**Responsible AI Accelerator**](https://github.com/microsoft/ResponsibleAIAccelerator/tree/main)
+[**Responsible AI Accelerator**](https://github.com/Azure/azureml-examples/tree/main/sdk/python/responsible-ai)
 
 [**RAI for Azure AutoML**](https://github.com/Azure/azureml-examples/blob/main/sdk/python/jobs/automl-standalone-jobs/automl-classification-task-bankmarketing/automl-classification-task-bankmarketing-serverless.ipynb)
 
