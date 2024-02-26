@@ -26,6 +26,7 @@
 
 [**Configure content filters with Azure OpenAI Service**](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/content-filters)
 
+[**Azure Responsible AI Dashboard**](https://youtu.be/hXq-KHHkJvk)
 
 
 
